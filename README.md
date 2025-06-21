@@ -52,7 +52,7 @@ QR-Code-Component/
 ├── images/
 ├── index.html
 ├── style.css
-├── preview.jpg
+├── preview/
 └── README.md
 ```
 
